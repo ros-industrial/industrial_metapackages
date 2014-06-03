@@ -2,8 +2,8 @@
 Changelog for package industrial_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2014-06-02)
+------------------
 * Added ABB package, updated issues link
 * Contributors: Shaun Edwards
 
