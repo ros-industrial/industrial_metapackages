@@ -8,7 +8,7 @@
   <license>Apache 2.0</license>
 
   <url type="repository">https://github.com/ros-industrial/metapackages</url>
-  <url type="bugtracker">https://github.com/ros-industrial/metapackages/issues</url>
+  <url type="bugtracker">https://github.com/ros-industrial/ros_industrial_issues/issues</url>
 
   <buildtool_depend>catkin</buildtool_depend>
 
@@ -16,6 +16,7 @@
   <run_depend>industrial_core</run_depend>
   <run_depend>motoman</run_depend>
   <run_depend>universal_robot</run_depend>
+  <run_depend>abb</run_depend>
 
   <export>
     <metapackage/>
