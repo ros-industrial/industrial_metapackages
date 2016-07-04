@@ -2,6 +2,10 @@
 Changelog for package industrial_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Updated for Indigo release (same packages)
+
 0.0.2 (2014-06-02)
 ------------------
 * Added ABB package, updated issues link
