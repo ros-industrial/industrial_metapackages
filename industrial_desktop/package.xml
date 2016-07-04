@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>industrial_desktop</name>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
   <description>The industrial_desktop package contains all "released" packages</description>
   <maintainer email="shaun.edwards@gmail.com">Shaun Edwards</maintainer>
   <license>BSD</license>

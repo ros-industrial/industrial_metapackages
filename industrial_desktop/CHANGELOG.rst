@@ -2,8 +2,8 @@
 Changelog for package industrial_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.3 (2016-07-03)
+------------------
 * Updated for Indigo release (same packages)
 
 0.0.2 (2014-06-02)
