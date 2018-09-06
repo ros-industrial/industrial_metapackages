@@ -1,0 +1,52 @@
+- git:
+    uri: 'https://github.com/ros-industrial/abb'
+    local-name: abb
+- git:
+    uri: 'https://github.com/ros-industrial/abb_experimental'
+    local-name: abb_experimental
+- git:
+    uri: 'https://github.com/ros-industrial/fanuc'
+    local-name: fanuc
+- git:
+    uri: 'https://github.com/ros-industrial/fanuc_experimental'
+    local-name: fanuc_experimental
+- git:
+    uri: 'https://github.com/ros-industrial/industrial_calibration'
+    local-name: industrial_calibration
+- git:
+    uri: 'https://github.com/ros-industrial/industrial_core'
+    local-name: industrial_core
+- git:
+    uri: 'https://github.com/ros-industrial/industrial_moveit'
+    local-name: industrial_moveit
+- git:
+    uri: 'https://github.com/ros-industrial/kuka'
+    local-name: kuka
+- git:
+    uri: 'https://github.com/ros-industrial/kuka_experimental'
+    local-name: kuka_experimental
+- git:
+    uri: 'https://github.com/ros-industrial/motoman'
+    local-name: motoman
+- git:
+    uri: 'https://github.com/ros-industrial/motoman_experimental'
+    local-name: motoman_experimental
+- git:
+    uri: 'https://github.com/ros-industrial/robotiq'
+    local-name: robotiq
+- git:
+    uri: 'https://github.com/ros-industrial/ros_canopen'
+    local-name: ros_canopen
+- git:
+    uri: 'https://github.com/ros-industrial/ros_qtc_plugin'
+    local-name: ros_qtc_plugin
+- git:
+    uri: 'https://github.com/ros-industrial/staubli'
+    local-name: staubli
+- git:
+    uri: 'https://github.com/ros-industrial/staubli_experimental'
+    local-name: staubli_experimental
+- git:
+    uri: 'https://github.com/ros-industrial/universal_robot'
+    local-name: universal_robot
+
